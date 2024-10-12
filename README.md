@@ -11,7 +11,7 @@ Prebuilt MIUI Leica Camera to include in custom ROM builds.
 
 ### How to use?
 
-1. Clone this repo to `vendor/xiaomi/miuicamera`
+1. Clone this repo to `vendor/xiaomi/camera`
 
 2. Inherit it from `device.mk` in device tree:
 
